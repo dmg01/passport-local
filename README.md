@@ -1,6 +1,6 @@
 # passport-local2
 
-Fork of [passport-local](https://github.com/jaredhanson/passport-local) requiring (and using) an additial username as field for the new account.
+Fork of [passport-local](https://github.com/jaredhanson/passport-local) requiring (and using) an additial email as field for the new account.
 
 ---
 
@@ -22,7 +22,7 @@ unobtrusively integrated into any application or framework that supports
 
 ## Install
 
-    $ npm install passport-local
+    $ npm install dmg01/passport-local
 
 ## Usage
 
